@@ -1,2 +1,2 @@
 # dia2
-Somar 2 números (usando OO)
+Somar 2 números
